@@ -23,3 +23,7 @@ let matchingItem;
       })
     }
 }
+
+function removeFromCart(productId){
+  
+}
